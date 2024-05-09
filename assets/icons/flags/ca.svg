@@ -1,0 +1,13 @@
+<svg width="28" height="13" viewBox="0 0 28 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Country flags">
+<rect id="Mask" x="0.25" y="0.672852" width="27.5" height="19.5" rx="1.75" fill="white" stroke="#F5F5F5" stroke-width="0.5"/>
+<mask id="mask0_1135_57801" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="28" height="21">
+<rect id="Mask_2" x="0.25" y="0.672852" width="27.5" height="19.5" rx="1.75" fill="white" stroke="white" stroke-width="0.5"/>
+</mask>
+<g mask="url(#mask0_1135_57801)">
+<rect id="Mask_3" x="20" y="0.422852" width="8" height="20" fill="#FF3131"/>
+<path id="Rectangle 2" fill-rule="evenodd" clip-rule="evenodd" d="M0 20.4229H8V0.422852H0V20.4229Z" fill="#FF3131"/>
+<path id="Rectangle 66" fill-rule="evenodd" clip-rule="evenodd" d="M16.1118 9.64405C15.8786 9.87726 15.4846 9.66638 15.5493 9.34298L16 7.08919L14.6667 7.75586L14 5.75586L13.3334 7.75586L12 7.08919L12.4508 9.34298C12.5155 9.66638 12.1214 9.87726 11.8882 9.64405L11.5691 9.3249C11.4389 9.19472 11.2278 9.19472 11.0977 9.32489L10.6667 9.75586L9.33337 9.08919L10 10.4225L9.56908 10.8535C9.4389 10.9837 9.4389 11.1947 9.56908 11.3249L11.3334 13.0892H13.3334L13.6667 15.0892H14.3334L14.6667 13.0892H16.6667L18.431 11.3249C18.5612 11.1947 18.5612 10.9837 18.431 10.8535L18 10.4225L18.6667 9.08919L17.3334 9.75586L16.9024 9.3249C16.7722 9.19472 16.5612 9.19472 16.431 9.32489L16.1118 9.64405Z" fill="#FF3131"/>
+</g>
+</g>
+</svg>

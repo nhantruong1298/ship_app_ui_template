@@ -1,0 +1,17 @@
+<svg width="28" height="21" viewBox="0 0 28 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Country flags">
+<rect id="Mask" x="0.25" y="0.672852" width="27.5" height="19.5" rx="1.75" fill="white" stroke="#F5F5F5" stroke-width="0.5"/>
+<mask id="mask0_1135_57792" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="28" height="21">
+<rect id="Mask_2" x="0.25" y="0.672852" width="27.5" height="19.5" rx="1.75" fill="white" stroke="white" stroke-width="0.5"/>
+</mask>
+<g mask="url(#mask0_1135_57792)">
+<path id="Oval 9" fill-rule="evenodd" clip-rule="evenodd" d="M14 16.4229C17.3137 16.4229 20 13.7366 20 10.4229C20 7.10914 17.3137 4.42285 14 4.42285C10.6863 4.42285 8 7.10914 8 10.4229C8 13.7366 10.6863 16.4229 14 16.4229Z" fill="url(#paint0_linear_1135_57792)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_1135_57792" x1="8" y1="4.42285" x2="8" y2="16.4229" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D81441"/>
+<stop offset="1" stop-color="#BB0831"/>
+</linearGradient>
+</defs>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="28" height="21" viewBox="0 0 28 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Country flags">
+<rect id="Mask" y="0.422852" width="28" height="20" rx="2" fill="white"/>
+<mask id="mask0_1135_57786" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="28" height="21">
+<rect id="Mask_2" y="0.422852" width="28" height="20" rx="2" fill="white"/>
+</mask>
+<g mask="url(#mask0_1135_57786)">
+<rect id="Mask Copy" y="0.422852" width="28" height="20" fill="#0A17A7"/>
+<path id="Rectangle 2" fill-rule="evenodd" clip-rule="evenodd" d="M-1.2825 -1.49316L10.6666 6.56663V-0.910051H17.3333V6.56663L29.2824 -1.49316L30.7736 0.717602L21.3262 7.08995H28V13.7566H21.3262L30.7736 20.129L29.2824 22.3397L17.3333 14.2799V21.7566H10.6666V14.2799L-1.2825 22.3397L-2.77368 20.129L6.67371 13.7566H-3.14713e-05V7.08995H6.67371L-2.77368 0.717603L-1.2825 -1.49316Z" fill="white"/>
+<path id="Line" d="M18.668 6.75505L31.3333 -1.57715" stroke="#DB1F35" stroke-width="0.666667" stroke-linecap="round"/>
+<path id="Line Copy 2" d="M20.0128 14.1206L31.3667 21.7734" stroke="#DB1F35" stroke-width="0.666667" stroke-linecap="round"/>
+<path id="Line Copy" d="M8.00549 6.7334L-3.83752 -1.24805" stroke="#DB1F35" stroke-width="0.666667" stroke-linecap="round"/>
+<path id="Line Copy 3" d="M9.29 14.0278L-3.83752 22.7334" stroke="#DB1F35" stroke-width="0.666667" stroke-linecap="round"/>
+<path id="Rectangle 2 Copy 3" fill-rule="evenodd" clip-rule="evenodd" d="M0 12.4229H12V20.4229H16V12.4229H28V8.42285H16V0.422852H12V8.42285H0V12.4229Z" fill="#E6273E"/>
+</g>
+</g>
+</svg>

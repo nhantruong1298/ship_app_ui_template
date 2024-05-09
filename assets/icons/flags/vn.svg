@@ -1,0 +1,12 @@
+<svg width="28" height="21" viewBox="0 0 28 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Country flags">
+<rect id="Mask" y="0.422852" width="28" height="20" rx="2" fill="white"/>
+<mask id="mask0_1135_57779" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="28" height="21">
+<rect id="Mask_2" y="0.422852" width="28" height="20" rx="2" fill="white"/>
+</mask>
+<g mask="url(#mask0_1135_57779)">
+<rect id="Mask Copy" y="0.422852" width="28" height="20" fill="#EA403F"/>
+<path id="Star 8" fill-rule="evenodd" clip-rule="evenodd" d="M14 12.7629L10.4733 15.277L11.7745 11.146L8.29366 8.56875L12.6246 8.52975L14 4.42285L15.3754 8.52975L19.7063 8.56875L16.2255 11.146L17.5267 15.277L14 12.7629Z" fill="#FFFE4E"/>
+</g>
+</g>
+</svg>

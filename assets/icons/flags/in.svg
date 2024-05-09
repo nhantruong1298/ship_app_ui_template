@@ -1,0 +1,14 @@
+<svg width="28" height="21" viewBox="0 0 28 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Country flags">
+<rect id="Mask" x="0.25" y="0.672852" width="27.5" height="19.5" rx="1.75" fill="white" stroke="#F5F5F5" stroke-width="0.5"/>
+<mask id="mask0_1135_57795" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="28" height="21">
+<rect id="Mask_2" x="0.25" y="0.672852" width="27.5" height="19.5" rx="1.75" fill="white" stroke="white" stroke-width="0.5"/>
+</mask>
+<g mask="url(#mask0_1135_57795)">
+<path id="Rectangle 2" fill-rule="evenodd" clip-rule="evenodd" d="M0 7.08952H28V0.422852H0V7.08952Z" fill="#FFA44A"/>
+<path id="Rectangle 2_2" fill-rule="evenodd" clip-rule="evenodd" d="M0 20.4225H28V13.7559H0V20.4225Z" fill="#1A9F0B"/>
+<path id="Oval 1" d="M14 12.7562C15.2887 12.7562 16.3333 11.7115 16.3333 10.4229C16.3333 9.13419 15.2887 8.08952 14 8.08952C12.7113 8.08952 11.6667 9.13419 11.6667 10.4229C11.6667 11.7115 12.7113 12.7562 14 12.7562Z" fill="#181A93" fill-opacity="0.15" stroke="#181A93" stroke-width="0.666667"/>
+<path id="Oval 8" fill-rule="evenodd" clip-rule="evenodd" d="M14 11.0892C14.3682 11.0892 14.6667 10.7907 14.6667 10.4225C14.6667 10.0543 14.3682 9.75586 14 9.75586C13.6319 9.75586 13.3334 10.0543 13.3334 10.4225C13.3334 10.7907 13.6319 11.0892 14 11.0892Z" fill="#181A93"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,51 @@
+name: app_merchant
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+6
+
+environment:
+  sdk: '>=3.2.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  flutter_screenutil: 5.9.0
+  loading_indicator: 3.1.1
+  flutter_svg: 2.0.9
+  intl: 0.18.1
+  shimmer: 3.0.0
+  floor: 1.4.2
+  google_fonts: 6.1.0
+  flutter_svg_provider: 1.0.7
+  auto_size_text: 3.0.0
+  material_color_gen: 2.0.0
+  logger: 2.0.2+1
+  flutter_form_builder: 9.1.1
+  form_builder_validators: 9.1.0
+  dotted_border: 2.1.0
+  flutter_easyloading: 3.0.5
+  loading_animation_widget: 1.2.0+4
+
+  flutter_native_splash: ^2.3.10
+  carousel_slider: ^4.2.1
+  smooth_page_indicator: ^1.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_gen_runner:
+  build_runner: 2.4.8
+  flutter_lints: 2.0.0
+
+flutter:
+  generate: true
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/icons/flags/
+
